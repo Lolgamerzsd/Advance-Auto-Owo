@@ -1,12 +1,12 @@
 {
-  "token": "enter account token",
-  "prefix": ">",
+  "token": "MTAyNDY1NTMxNjMzNzU2MTYzMA.GJ1rRF._i6rNWk0NE7ldr4vBgg1I9OlLsMLmsJLpoFghk",
+  "prefix": ".",
   "settings": {
     "channel_ids":[
-      1253727886800588820,
-      1270754511362850817
+      1302619189818822696,
+      1309437997069897768
     ],
-    "owodm_channelid": enter owo_dm channel id,
+    "owodm_channelid": "1309437993727299594",
       "channel_change_interval": [5, 15],
       "animal_types": "all",
       "slotamount": ["100", "500", "200"],
@@ -25,16 +25,16 @@
   },
   "captcha": {
     "avail_services": ["twocaptcha", "capsolver", "capmonster", "captchaai", "scrappey", "nopecha"],
-    "hcaptcha_service": "scrappey",
-    "hcaptcha_key": "hservice_api_key",
-    "TextToImage_service": "nopecha",
-    "TextToImage_key": "texttoimage_key",
-    "huntbot_key": "join discord to get its free dumb"
+    "hcaptcha_service": "OcdG0nWQXZRixB7fm53BeKs1t5XNHjq4niarzcpxrNjfG9OC2ln4UVVuzqlP",
+    "hcaptcha_key": "54354d914268a15082ac4665c06d5188",
+    "TextToImage_service": "7fuuz0vjb1xffrdh",
+    "TextToImage_key": "7fuuz0vjb1xffrdh",
+    "huntbot_key": "TheAxes-Usr-Free-69"
   },
 "notifications": {
-  "captcha_alerts": "webhook_url",
-  "daily_claim_alerts": "webhook_url",
-  "huntbot_alert": "webhook_url",
-  "funds_alerts": "webhook_url"
+  "captcha_alerts": "https://discord.com/api/webhooks/1309442248768749598/y2edoOrlWvCNYc3ehEtUPUJI5-Bgugm207OSyMXD8TGddWTDtAXZQPIqA5eV8D-2vskk",
+  "daily_claim_alerts": "https://discord.com/api/webhooks/1309442248768749598/y2edoOrlWvCNYc3ehEtUPUJI5-Bgugm207OSyMXD8TGddWTDtAXZQPIqA5eV8D-2vskk",
+  "huntbot_alert": "https://discord.com/api/webhooks/1309442248768749598/y2edoOrlWvCNYc3ehEtUPUJI5-Bgugm207OSyMXD8TGddWTDtAXZQPIqA5eV8D-2vskk",
+  "funds_alerts": "https://discord.com/api/webhooks/1309442248768749598/y2edoOrlWvCNYc3ehEtUPUJI5-Bgugm207OSyMXD8TGddWTDtAXZQPIqA5eV8D-2vskk"
 }
 }
